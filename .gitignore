@@ -1,1 +1,4 @@
 *.zip
+*.vvp
+*.vcd
+*.code-workspace
