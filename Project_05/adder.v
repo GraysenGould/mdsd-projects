@@ -1,6 +1,6 @@
 
 
-module adder(A ,B, Cin, Sum, Cout);
+module adder(A, B, Cin, Sum, Cout);
 
 input A, B, Cin;
 
