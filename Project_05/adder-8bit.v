@@ -1,4 +1,3 @@
-`include "adder.v"
 
 
 //module adder_8bit(A[7:0], B[7:0], Cin, Sum[7:0], Cout);

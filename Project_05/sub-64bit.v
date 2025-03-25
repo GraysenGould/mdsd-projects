@@ -1,4 +1,3 @@
-`include "adder-64bit.v"
 
 
 module sub_64bit (A, B, Diff);

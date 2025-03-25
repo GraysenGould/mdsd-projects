@@ -1,4 +1,3 @@
-`include "adder-8bit.v"
 
 
 module adder_64bit(A, B, Cin, Sum, Cout);

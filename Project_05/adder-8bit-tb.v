@@ -1,5 +1,4 @@
 `timescale 1ns / 1ns 
-`include "adder-8bit.v"
 
 module adder_8bit_tb;
 

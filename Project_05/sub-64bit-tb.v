@@ -1,5 +1,4 @@
 `timescale 1ns / 1ns 
-`include "sub-64bit.v"
 
 module sub_64bit_tb;
 
